@@ -1,17 +1,21 @@
-[
-  {
-    "id": "ibraflix",
-    "name": "Ibraflix Productions",
-    "description": "Official Ibraflix Productions provider for Supernatural Powers",
-    "version": "1.0.0",
-    "author": "Ibraflix Productions",
-    "supportedTypes": ["tv"],
-    "filename": "providers/ibraflix.js",
-    "enabled": true,
-    "contentLanguage": ["en"],
-    "formats": ["mp4"],
-    "limited": true,
-    "disabledPlatforms": [],
-    "supportsExternalPlayer": true
-  }
-]
+{
+  "id": "ibraflix",
+  "name": "Ibraflix Productions",
+  "description": "Official Ibraflix Productions provider for Supernatural Powers",
+  "version": "1.0.0",
+  "author": "Ibraflix Productions",
+  "supportedTypes": [
+    "tv"
+  ],
+  "filename": "providers/ibraflix.js",
+  "enabled": true,
+  "contentLanguage": [
+    "en"
+  ],
+  "formats": [
+    "mp4"
+  ],
+  "limited": true,
+  "disabledPlatforms": [],
+  "supportsExternalPlayer": true
+}
